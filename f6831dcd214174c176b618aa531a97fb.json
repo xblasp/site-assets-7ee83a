@@ -1,7 +1,7 @@
 {
-    "status": "suspended",
-    "message": "This website is temporarily unavailable. Please contact your web developer.",
-    "issued": "2026-10-31T21:18:08+00:00",
-    "expires": "2026-11-14T21:18:08+00:00",
-    "sig": "36559c0995bef0722257cf5c88480878e512d7ee06e29ca8e4326acd9a4bd7d3"
+    "status": "active",
+    "message": "",
+    "issued": "2026-10-31T21:19:10+00:00",
+    "expires": "2026-11-14T21:19:10+00:00",
+    "sig": "cd44481d59e8bbad7c0b43e16bd4374772455eb40f29f5530d1f4c52b3b6e8eb"
 }
